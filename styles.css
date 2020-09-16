@@ -1,0 +1,137 @@
+.video-container Video{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -2;
+}
+
+.intro{
+  color: white;
+  text-indent: 50px;
+  z-index: 2;
+  text-align: center;
+  background-color:black;
+  opacity: 0.75;
+}
+
+.intro h1{
+  color: white;
+  text-align: center;
+}
+
+.navigation{
+
+ 
+}
+
+
+.About h1{
+  font-size: 4rem;
+  text-align: left;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.abouttext h2{
+  text-indent: 50px;
+  color: white;
+  z-index: 2;
+  text-align: left;
+  margin-right: 600px;
+  margin-left: 10px; 
+  text-align:justify
+}
+
+.Hobbies h1{
+  font-size: 4rem;
+  text-align: left;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.hobbiestext h2{
+  text-indent: 50px;
+  color: white;
+  z-index: 2;
+  text-align: right;
+  margin-right: 10px;
+  margin-left: 600px; 
+  text-align:justify
+}
+
+.Skills h1{
+  font-size: 4rem;
+  text-align: left;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.skillstext h2{
+  text-indent: 50px;
+  color: white;
+  z-index: 2;
+  text-align: right;
+  margin-right: 600px;
+  margin-left: 10px; 
+  text-align:justify
+}
+
+.Contact h1{
+  font-size: 4rem;
+  text-align: left;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.earth img{
+ position: absolute;
+ z-index: 4;
+ border-radius: 10%;
+}
+
+.blitzvideo video{
+ position: absolute;
+ z-index: 4;
+ border-radius: 10%;
+}
+
+.leagueoflegends img{
+ position: absolute;
+ z-index: 4;
+ border-radius: 10%;
+}
+
+.Contact h1{
+  font-size: 4rem;
+  text-align: left;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.contacttext h2{
+  color: white;
+  z-index: 2;
+  text-align: center;
+  margin-right: 600px;
+  margin-left: 10px; 
+}
+
+.lantern img{
+ position: absolute;
+ z-index: 4;
+ border-radius: 10%;
+}
